@@ -21,10 +21,12 @@
   },
   "dependencies": {
     "@browserbasehq/sdk": "^2.0.0",
-		"@modelcontextprotocol/sdk": "^1.0.3",
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "express": "^4.21.2",
     "puppeteer-core": "^23.9.0"
   },
   "devDependencies": {
+    "@types/express": "^5.0.0",
     "shx": "^0.3.4",
     "typescript": "^5.6.2"
   }
